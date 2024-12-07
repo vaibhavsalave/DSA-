@@ -1,0 +1,40 @@
+/* Flow Chart and  Sudo Code  
+
+                                                                                 Data Strucutres 
+     ________________________________________________________________________________|___________________________________
+    |                                                                                                                   |
+primitive                                                                                                             Non-Primitive 
+                                                                    ______________________________________________________|__________________________________________
+                                                                   |                                                                                                |
+                                                                 Liner                                                                                           Non-Liner
+                                                                   |                                                                                                |
+                                          _________________________|________________________________________                                   ____________________________________________
+                                         |                                                                 |                                  |                      |                    |
+                                       Static                                                          Dynamic                               Tree                 Graph                 Table/Set-
+                                         |                                                                 |
+                                       Arrays                        ______________________________________|__________________________
+                                                                     |                  |                  |                          |    
+                                                                   Vector          LinkedList             Stack                     Ques
+
+Dynamic programing 
+Greedy Algoritms 
+Two Pointer Apporch
+
+      Start With C++  Language 
+           1) FlowChart & Pseudocode
+           2) Variables Data Types operators
+           3) Conditional Statement 
+           4) Loops
+           5) Functions
+
+How to slove a problem ?
+     problem : Find sum of 2 number : a & b 
+     Steps : 
+            understanding 
+            input
+            solution 
+            coding
+
+
+          
+*/                  
