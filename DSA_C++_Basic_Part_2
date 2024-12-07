@@ -1,0 +1,43 @@
+/*
+      C++  case sensitive lang 
+
+    cout<<"Hello World";
+
+    statement terminator  = ; 
+namespace : std  
+
+Main Function : All code run from this main Function
+#include<iostram>
+using namespace std ;
+ int main()
+{
+     cout<<"vaibhav" ;  
+
+    return 0 ;
+}
+
+<<endl ;
+<<"\n" ;   use both for new line 
+
+variables ( objects ) 
+   Containers to store Data 
+
+            age =  25 ;
+
+identifer  : developer define name 
+
+datatypes : 
+ASCII Value Store in memory 
+
+   int     : -   4 Bytes            32 space =  8 bits     sizeof(age) 
+   char    : -   1 Byte
+   float   : -   4 Bytes
+   bool
+   double
+
+   float pI =  3.14f ;
+  String :- 
+
+*/
+
+   
